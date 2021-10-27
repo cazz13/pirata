@@ -1,9 +1,9 @@
 @font-face {
     font-family: pirata1;
-    src: url(/fonts/AlexBrush-Regular.ttf);
+    src: url(./fonts/AlexBrush-Regular.ttf);
 }
 
-body {background-image: url(/images/teploleta150700225.jpg);
+body {background-image: url(./images/teploleta150700225.jpg);
 margin: 0;
 padding: 0;
 font-family: pirata1;
