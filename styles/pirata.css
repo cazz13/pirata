@@ -1,0 +1,29 @@
+@font-face {
+    font-family: pirata1;
+    src: url(/fonts/AlexBrush-Regular.ttf);
+}
+
+body {background-image: url(/images/teploleta150700225.jpg);
+margin: 0;
+padding: 0;
+font-family: pirata1;
+font-size: 2em;}
+#container {background-color:rgba(175, 104, 80, 0.789);
+border-radius: 15px;
+color: black;
+width: 80%;
+height: auto;
+margin: 5vh auto;
+font-family: pirata1;
+text-align: justify;
+padding: 30px;}
+#poema {text-align: center;
+width: 300px;
+margin: auto;}
+h2 {background-color: #74423d;
+    font-family: pirata1;
+    text-align: center;
+    border-radius: 15px 5px 15px 5px;
+    padding: 15px;
+    margin: auto;
+}
